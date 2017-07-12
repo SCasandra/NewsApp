@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="no_network">Make sure your wireless is on and connected.</string>
+    <string name="loading_message">Loading data..</string>
+    <string name="no_results">No results</string>
+    <!-- <b> tag does not work -->
+    <string name="title"><b>Title:</b></string>
+    <string name="section"><b>Section:</b></string>
+    <string name="webUrl"><b>Web URL:</b></string>
+</resources>
